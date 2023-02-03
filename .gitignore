@@ -1,4 +1,4 @@
 node_modules
 dist
-apps
-packages
+apps/*
+packages/*
