@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "app-main": "git@github.com:to-codando/meta-repo-main.git",
+    "app-message": "git@github.com:to-codando/meta-repo-message.git"
+  }
+}
