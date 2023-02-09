@@ -2,4 +2,5 @@
 /meta-repo-message/
 node_modules
 dist
+dist/
 build

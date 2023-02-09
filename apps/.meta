@@ -1,6 +1,6 @@
 {
-  "projects": {
-    "app-main": "git@github.com:to-codando/meta-repo-main.git",
-    "app-message": "git@github.com:to-codando/meta-repo-message.git"
-  }
+	"projects": {
+		"bem-perfeito": "git@github.com:to-codando/bem-perfeito-app.git",
+		"iares": "git@github.com:to-codando/iares.git"
+	}
 }
